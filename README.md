@@ -1,5 +1,6 @@
 📚 Student Attendance Management System (MERN Stack)
 🚀 Project Overview
+<img width="844" height="524" alt="Screenshot 2025-11-23 192912" src="https://github.com/user-attachments/assets/fc038c79-5ba0-4a82-843f-e7ba377c89b1" />
 
 
 
@@ -29,6 +30,7 @@ Present / Absent toggle for attendance
 📝 Attendance System
 
 Daily attendance marking
+<img width="1243" height="541" alt="Screenshot 2025-11-23 193326" src="https://github.com/user-attachments/assets/16597f55-f9b4-403c-bcfa-3359e0d79918" />
 
 Stores records securely in MongoDB
 
@@ -52,6 +54,8 @@ Downloadable reports for records
 Responsive dashboard layout
 Clean modern interface
 Submission Ready Statement
+<img width="1079" height="533" alt="Screenshot 2025-11-23 193343" src="https://github.com/user-attachments/assets/50d48015-3ae0-46d2-b0d6-51276510d9a3" />
+
 
 This project fulfills all technical and functional requirements specified by the recruiter using clean architecture, modern UI practices, and scalable backend logic, making it suitable for academic and professional evaluation.
 
@@ -61,5 +65,4 @@ B.Tech Cyber Security Student
 MERN Stack Developer
 GitHub: https://github.com/sairamdhonthula
 User-friendly toggles & controls
-<img width="844" height="524" alt="Screenshot 2025-11-23 192912" src="https://github.com/user-attachments/assets/fc038c79-5ba0-4a82-843f-e7ba377c89b1" />
 
