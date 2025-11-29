@@ -1,6 +1,9 @@
 📚 Student Attendance Management System (MERN Stack)
 🚀 Project Overview
+
 <img width="844" height="524" alt="Screenshot 2025-11-23 192912" src="https://github.com/user-attachments/assets/fc038c79-5ba0-4a82-843f-e7ba377c89b1" />
+<img width="1911" height="429" alt="Screenshot 2025-11-29 124722" src="https://github.com/user-attachments/assets/2ddcd854-9f59-4db2-955b-02d9c2ec6576" />
+
 
 
 
@@ -21,7 +24,8 @@ Protected routes for unauthorized access
 
 👨‍🎓 Student Management
 
-40+ realistic Indian student names
+
+<img width="1895" height="585" alt="Screenshot 2025-11-29 124739" src="https://github.com/user-attachments/assets/9fbe15fb-b804-49ff-9524-166d80ab7c2b" />
 
 Dynamic student fetching from MongoDB
 
